@@ -4,7 +4,7 @@ Fútbol de clubes y selecciones para el navegador (celular y PC). Jugadores 3D c
 
 ## Publicar en GitHub Pages
 1. Creá un repositorio nuevo en GitHub (por ejemplo `clasico-11`).
-2. Subí **el contenido** de esta carpeta (no la carpeta en sí): `index.html`, `js/`, `assets/`, los `icon*.png`, `favicon-32.png`, `apple-touch-icon.png`, `manifest.webmanifest` y `.nojekyll`.
+2. Subí **el contenido** de esta carpeta (no la carpeta en sí): `index.html`, los `icon*.png`, `favicon-32.png`, `apple-touch-icon.png`, `manifest.webmanifest` y `.nojekyll`.
 3. En el repo: **Settings → Pages → Build and deployment → Deploy from a branch → `main` / `(root)` → Save**.
 4. En 1–2 minutos queda en `https://TU-USUARIO.github.io/clasico-11/`.
 
